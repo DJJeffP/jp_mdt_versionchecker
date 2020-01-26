@@ -1,0 +1,7 @@
+{
+  "version":"0.2.1.8",
+  "patchnote" : [
+	"Update to latest manifest compatibility",
+	"Removed __resource.lua to replace with fxmanifest.lua" 
+  ]
+}
